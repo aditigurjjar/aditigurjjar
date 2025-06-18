@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#facc15;">Simarjeet Singh Arora</span></h1>
-<h3 align="center">🌐 Web Developer | ⚡ FastAPI & React Enthusiast | 🤝 Social-Tech Innovator</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#facc15;">Aditi Gurjar</span></h1>
+<h3 align="center">🌐 Web Developer | ⚡ Java Enthusiast | 🤝 Social-Tech Innovator</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/simarjeet-singh-arora-310934267"><img src="logos/linkedin.png" width="60" height="60" style="padding:25px"></a>
-  <a href="mailto:simarjeetsingharora15@gmail.com"><img src="logos/email.png" width="60" height="60" style="padding:25px""></a>
-  <a href="https://github.com/SimarjeetSArora"><img src="logos/github.png" width="60" height="63" style="padding:20px"></a>
+  <a href="https://www.linkedin.com/in/aditi-gurjar-776144268/"><img src="logos/linkedin.png" width="60" height="60" style="padding:25px"></a>
+  <a href="mailto:aditigurjar2563@gmail.com"><img src="logos/email.png" width="60" height="60" style="padding:25px""></a>
+  <a href="https://github.com/aditigurjjar"><img src="logos/github.png" width="60" height="63" style="padding:20px"></a>
 </p>
 
 ---
 
 ### 🔍 About Me
 
-🎓 **B.Tech Graduate** in Computer Science and IT – Acropolis Institute of Technology and Research  
+🎓 **B.Tech Graduate** in Computer Science and Engineering – Acropolis Institute of Technology and Research  
 💡 Passionate about building meaningful tech that creates social impact  
-🔧 Skilled in full-stack development using React, FastAPI, and MySQL
+🔧 Skilled in full-stack development using Java Spring Boot
 
 ---
 
