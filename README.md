@@ -84,18 +84,20 @@
 
 ### 📊 GitHub Stats
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SimarjeetSArora&show_icons=true&theme=tokyonight" alt="stats" height="160" style="padding:5px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimarjeetSArora&layout=compact&theme=tokyonight" alt="top langs" height="160" style="padding:5px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AditiGurjar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiGurjar&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
 ### ✨ Fun Facts
 
-- 📸 I love photography "especially nature and outdoor scenes"  
-- 🏔️ I dream of building a peaceful retreat in Mcleodganj  
-- 📝 I write journals and poems in my free time  
+-🎨 I enjoy drawing and painting, especially creating creative artwork in my free time.
+-✂️ I love crafting and making handmade things, which helps me stay creative and patient.
+-🖌️ I enjoy exploring different art styles and experimenting with colors and designs. 
 
 <br/>
 
