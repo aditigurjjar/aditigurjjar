@@ -33,45 +33,70 @@
 - 🗄️ SQL & Database Management<br/>
 - 🧩 Data Structures & Algorithms<br/>
 - 🔗 REST APIs & Backend Development<br/>
+
+
+
+
+
 ### 🚀 Projects
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="300" style="padding: 10px;">
-      <img src="project_logos/giftible.png" width="120" height="120" alt="Giftible Logo" />
-      <h3>Giftible.in</h3>
-      <p>An eCommerce platform connecting NGOs with buyers to sell charity-based products.</p>
-      <sub><strong>Stack:</strong> FastAPI, React, MySQL, Razorpay, Twilio</sub><br/>
-      <a href="[https://github.com/SimarjeetSArora/Giftible.in](https://github.com/aditigurjjar/PORTFOLYX)">
-        <img src="logos/github.png" width="30" height="30" style="padding:5px" alt="GitHub Link"/>
+
+    <!-- PORTFOLYX -->
+    <td align="center" width="300" style="padding: 15px;">
+      <img src="https://placehold.co/200x150" width="200" height="150" alt="PORTFOLYX Project Image" />
+      <h3>PORTFOLYX</h3>
+      <p>Web-based portfolio management platform for students to create and manage professional portfolios.</p>
+      <sub><strong>Stack:</strong> Java, Spring Boot, Spring Security, JSP, MySQL</sub>
+      <br/><br/>
+      <a href="https://github.com/aditigurjjar/PORTFOLYX">
+        <img src="https://github.com/aditigurjjar.png" width="30" height="30" alt="GitHub"/>
       </a>
+      <br/>
+      <a href="https://github.com/aditigurjjar/PORTFOLYX">View Repository</a>
     </td>
 
-<br>
-    <td align="center" width="300" style="padding: 10px;">
-      <img src="project_logos/sable.png" width="120" height="120"  alt="SABLE Logo" />
-      <h3>SABLE</h3>
-      <p>Online shop for specially abled artisans with translation and payment integration.</p>
-      <sub><strong>Stack:</strong> HTML, CSS, JS, Bootstrap, MySQL, Razorpay</sub><br/>
-      <a href="[https://github.com/SimarjeetSArora/SABLE](https://github.com/aditigurjjar/PORTFOLYX)">
-        <img src="logos/github.png" width="30" height="30" style="padding:5px" alt="GitHub Link"/>
+    <!-- PROJECT 2 -->
+    <td align="center" width="300" style="padding: 15px;">
+      <img src="https://placehold.co/200x150" width="200" height="150" alt="Project Image" />
+      <h3>Smart Contact Manager</h3>
+      <p>Contact management application with secure authentication and user-friendly contact management features.</p>
+      <sub><strong>Stack:</strong> Java, Spring Boot, Spring Security, Thymeleaf, MySQL</sub>
+      <br/><br/>
+      <a href="https://github.com/aditigurjjar/Smart-Contact-Manager">
+        <img src="https://github.com/aditigurjjar.png" width="30" height="30" alt="GitHub"/>
       </a>
+      <br/>
+      <a href="https://github.com/aditigurjjar/Smart-Contact-Manager">View Repository</a>
     </td>
-    <td align="center" width="300" style="padding: 10px;">
-      <img src="project_logos/doctoo.png" width="120" height="120" alt="Doctoo Logo" />
-      <h3>Doctoo</h3>
-      <p>Clinic management system to digitize prescriptions with multilingual support.</p>
-      <sub><strong>Stack:</strong> HTML, CSS, JS, Razorpay, OTP Auth, Captcha</sub><br/>
-      <a href="[https://github.com/SimarjeetSArora/Doctoo](https://github.com/aditigurjjar/PORTFOLYX)">
-        <img src="logos/github.png" width="30" height="30" style="padding:5px" alt="GitHub Link"/>
+
+    <!-- PROJECT 3 -->
+    <td align="center" width="300" style="padding: 15px;">
+      <img src="https://placehold.co/200x150" width="200" height="150" alt="Project Image" />
+      <h3>Job Portal</h3>
+      <p>Web-based job portal for connecting job seekers with employers and managing job opportunities.</p>
+      <sub><strong>Stack:</strong> Java, JSP, Servlets, MySQL</sub>
+      <br/><br/>
+      <a href="https://github.com/aditigurjjar/Job-Portal">
+        <img src="https://github.com/aditigurjjar.png" width="30" height="30" alt="GitHub"/>
       </a>
+      <br/>
+      <a href="https://github.com/aditigurjjar/Job-Portal">View Repository</a>
     </td>
+
   </tr>
 </table>
 
 </div>
+
+
+
+
+
+
 
 ---
 
