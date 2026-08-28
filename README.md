@@ -15,7 +15,7 @@
 💡 Passionate about building meaningful tech that creates social impact  
 🔧 Skilled in full-stack development using Java Spring Boot
 
-
+---
 ### 💼 Experience
 
 **Software Design Engineer**  
@@ -73,7 +73,7 @@
 
 </p>
 
-
+---
 
 ### ✨ Fun Facts
 
