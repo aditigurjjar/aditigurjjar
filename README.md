@@ -15,8 +15,24 @@
 💡 Passionate about building meaningful tech that creates social impact  
 🔧 Skilled in full-stack development using Java Spring Boot
 
----
 
+### 💼 Experience
+
+**Software Design Engineer**  
+**Prashuk Infotech Venture**
+
+- 💻 Worked on software development and application implementation.<br>
+- 🛠️ Developed, tested, and debugged software features.<br>
+- 🤝 Collaborated with the team to implement project requirements.
+
+---
+### 📚 Currently Learning
+
+- ☕ Advanced Java & Object-Oriented Programming<br/>
+- 🌱 Spring Boot & Spring Security<br/>
+- 🗄️ SQL & Database Management<br/>
+- 🧩 Data Structures & Algorithms<br/>
+- 🔗 REST APIs & Backend Development<br/>
 ### 🚀 Projects
 
 <div align="center">
