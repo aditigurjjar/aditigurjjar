@@ -85,9 +85,9 @@
 
 ### ✨ Fun Facts
 
--🎨 I enjoy drawing and painting, especially creating creative artwork in my free time.
--✂️ I love crafting and making handmade things, which helps me stay creative and patient.
--🖌️ I enjoy exploring different art styles and experimenting with colors and designs. 
+🎨 I enjoy drawing and painting, especially creating creative artwork in my free time.
+✂️ I love crafting and making handmade things, which helps me stay creative and patient.
+🖌️ I enjoy exploring different art styles and experimenting with colors and designs. 
 
 <br/>
 
