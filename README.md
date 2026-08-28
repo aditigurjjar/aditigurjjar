@@ -44,7 +44,7 @@
       <h3>Giftible.in</h3>
       <p>An eCommerce platform connecting NGOs with buyers to sell charity-based products.</p>
       <sub><strong>Stack:</strong> FastAPI, React, MySQL, Razorpay, Twilio</sub><br/>
-      <a href="https://github.com/SimarjeetSArora/Giftible.in">
+      <a href="[https://github.com/SimarjeetSArora/Giftible.in](https://github.com/aditigurjjar/PORTFOLYX)">
         <img src="logos/github.png" width="30" height="30" style="padding:5px" alt="GitHub Link"/>
       </a>
     </td>
@@ -55,7 +55,7 @@
       <h3>SABLE</h3>
       <p>Online shop for specially abled artisans with translation and payment integration.</p>
       <sub><strong>Stack:</strong> HTML, CSS, JS, Bootstrap, MySQL, Razorpay</sub><br/>
-      <a href="https://github.com/SimarjeetSArora/SABLE">
+      <a href="[https://github.com/SimarjeetSArora/SABLE](https://github.com/aditigurjjar/PORTFOLYX)">
         <img src="logos/github.png" width="30" height="30" style="padding:5px" alt="GitHub Link"/>
       </a>
     </td>
@@ -64,7 +64,7 @@
       <h3>Doctoo</h3>
       <p>Clinic management system to digitize prescriptions with multilingual support.</p>
       <sub><strong>Stack:</strong> HTML, CSS, JS, Razorpay, OTP Auth, Captcha</sub><br/>
-      <a href="https://github.com/SimarjeetSArora/Doctoo">
+      <a href="[https://github.com/SimarjeetSArora/Doctoo](https://github.com/aditigurjjar/PORTFOLYX)">
         <img src="logos/github.png" width="30" height="30" style="padding:5px" alt="GitHub Link"/>
       </a>
     </td>
@@ -95,13 +95,6 @@
 
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditigurjjar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditigurjjar&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
----
 
 
 ### ✨ Fun Facts
